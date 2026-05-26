@@ -1,0 +1,4 @@
+# Keep unencrypted trip details out of the public repo.
+san_diego_travel_companion.html
+source.html
+*.unencrypted.html
